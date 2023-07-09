@@ -1,0 +1,640 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2023.1">
+  <Nodes>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="0" y="0" width="1169" height="457" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Container 18</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="1">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="25" y="61" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File FileFormat="23" RecordLimit="">aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* 
+from Xerox.dbo.[P1-OfficeSupplies Dashboard]</File>
+              <FormatSpecificOptions>
+                <SingleRowFetch>False</SingleRowFetch>
+                <ReadCentroids>False</ReadCentroids>
+                <TableStyle>Quoted</TableStyle>
+                <CacheData>False</CacheData>
+                <SessionReadOnly>True</SessionReadOnly>
+                <ReadUncommitted>False</ReadUncommitted>
+                <NoProgress>True</NoProgress>
+                <PostSQL />
+                <PreSQLOnConfig>True</PreSQLOnConfig>
+                <PreSQL />
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>aka:DESKTOP-8OLDJI6\SQLEXPRESS
+Query=select Xerox.dbo.[P1-OfficeS...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Column 0" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 1" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 2" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 3" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 4" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 5" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 6" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 7" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 8" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 9" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 10" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 11" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 12" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 13" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Column 14" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="2">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="157" y="61" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\pc\AppData\Local\Temp\Engine_2864_03aeb63d65d41048b3e15a493c5c66b2_\Engine_2864_06b9c8fc11032e48879641b359287623~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="3">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sample.Sample">
+            <Position x="157" y="121" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Mode>Skip</Mode>
+              <N>39</N>
+              <GroupFields orderChanged="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Skip 1st 39 rows</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSample" />
+        </Node>
+        <Node ToolID="4">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="289" y="120" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\pc\AppData\Local\Temp\Engine_2864_03aeb63d65d41048b3e15a493c5c66b2_\Engine_2864_6a7ac6c9f7d79846bbd8cdf384cfcb70~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="5">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+            <Position x="289" y="181" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <RenameMode>FirstRow</RenameMode>
+              <Fields orderChanged="False">
+                <Field name="Column 0" />
+                <Field name="Column 1" />
+                <Field name="Column 2" />
+                <Field name="Column 3" />
+                <Field name="Column 4" />
+                <Field name="Column 5" />
+                <Field name="Column 6" />
+                <Field name="Column 7" />
+                <Field name="Column 8" />
+                <Field name="Column 9" />
+                <Field name="Column 10" />
+                <Field name="Column 11" />
+                <Field name="Column 12" />
+                <Field name="Column 13" />
+                <Field name="Column 14" />
+                <Field name="*Unknown" />
+              </Fields>
+              <Expression />
+              <FirstRow>
+                <OnError>Warn</OnError>
+              </FirstRow>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="OrderDate" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Region" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Rep" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Item" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Units" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Unit Price" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Total Sales" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Year" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Month" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Field_16" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Field_16_2" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Field_16_3" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Field_16_4" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Field_16_5" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+                <Field name="Field_16_6" size="50" source="File: aka:DESKTOP-8OLDJI6\SQLEXPRESS|||select Xerox.dbo.[P1-OfficeSupplies Dashboard].* &#xA;from Xerox.dbo.[P1-OfficeSupplies Dashboard]" type="V_String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+        </Node>
+        <Node ToolID="6">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="385" y="181" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\pc\AppData\Local\Temp\Engine_2864_03aeb63d65d41048b3e15a493c5c66b2_\Engine_2864_bf394bb5b083824498b5532d6a23c007~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="7">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="385" y="228" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="OrderDate" selected="True" />
+                <SelectField field="Region" selected="True" />
+                <SelectField field="Rep" selected="True" />
+                <SelectField field="Item" selected="True" />
+                <SelectField field="Units" selected="True" type="Double" size="8" />
+                <SelectField field="Unit Price" selected="True" type="Double" size="8" />
+                <SelectField field="Total Sales" selected="True" type="Double" size="8" />
+                <SelectField field="Year" selected="True" />
+                <SelectField field="Month" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="8">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="493" y="229" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\pc\AppData\Local\Temp\Engine_2864_03aeb63d65d41048b3e15a493c5c66b2_\Engine_2864_9d2741c028dd0b4095da8e416db6bc71~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="9">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+            <Position x="493" y="289" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <IsFrom value="False" />
+              <InputFieldName>OrderDate</InputFieldName>
+              <Language>English</Language>
+              <Format>dd-Mon.-yy</Format>
+              <OutputFieldName>DateTime_Out</OutputFieldName>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Convert OrderDate From:
+dd-Mon.-yy</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+        </Node>
+        <Node ToolID="10">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="601" y="289" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\pc\AppData\Local\Temp\Engine_2864_03aeb63d65d41048b3e15a493c5c66b2_\Engine_2864_4f4a0c9fc2aca1419cc8915bf147435a~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="11">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="697" y="373" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="Region" action="GroupBy" rename="Region" />
+                <SummarizeField field="Units" action="Sum" rename="Units" />
+                <SummarizeField field="Unit Price" action="Sum" rename="Unit Price" />
+                <SummarizeField field="Total Sales" action="Sum" rename="Total Sales" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="12">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="793" y="373" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\pc\AppData\Local\Temp\Engine_2864_03aeb63d65d41048b3e15a493c5c66b2_\Engine_2864_c3a52a9b6dbbbe4ca5738f2fbe6a36b2~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="13">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="601" y="325" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;Z_Total&quot;" field="Region" size="50" type="V_String" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Region = "Z_Total"
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="14">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+            <Position x="829" y="253" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <ByName_ErrorMode>Warning</ByName_ErrorMode>
+              <ByName_OutputMode>All</ByName_OutputMode>
+              <Mode>ByName</Mode>
+              <SetOutputOrder value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+        </Node>
+        <Node ToolID="15">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+            <Position x="937" y="253" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SortInfo locale="1033">
+                <Field field="Region" order="Ascending" />
+              </SortInfo>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Region - Ascending</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+        <Node ToolID="16">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1045" y="253" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\pc\AppData\Local\Temp\Engine_2864_03aeb63d65d41048b3e15a493c5c66b2_\Engine_2864_2f6db5bfd2efa844bdbf140fbfb8235b~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="17">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="1057" y="325" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File MaxRecords="" FileFormat="25">C:\Users\pc\Desktop\Datasets\template.xlsx|||Sheet1</File>
+              <Passwords />
+              <Disable>False</Disable>
+              <FormatSpecificOptions>
+                <PreserveFormat>False</PreserveFormat>
+                <SkipFieldNames>False</SkipFieldNames>
+                <OutputOption>RemoveFile</OutputOption>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>template.xlsx
+Query=Sheet1</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+        <Node ToolID="19">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="342" y="49" width="443" height="40" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text>Total Summation</Text>
+              <Font name="Arial" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor name="White" />
+              <Shape shape="0" />
+              <Justification Justification="4" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="5" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Total summasion</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="f812a1c3-49d3-4f70-9d74-2554d68aeba9" />
+      <Telemetry>
+        <PreviousWorkflowId value="1457b308-8868-440d-b322-35b1461a353c" />
+        <OriginWorkflowId value="1457b308-8868-440d-b322-35b1461a353c" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
